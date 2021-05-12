@@ -3,7 +3,7 @@ I’m interested in Python, Engineering, Neural networks
 I’m currently learning Python basics and studying/practicing for PCEP cert, after getting certified on level 3 or full level four moving to C/C++
 Reach me at: trunkfish@gmail.com
 
-Check out my github Pages website to my AI: https://reiningecho90.github.io/S.A.N.E.-AI/
+Check out my GitHub Pages website for my AI: https://reiningecho90.github.io/S.A.N.E.-AI/
 
 <!---
 Reiningecho90/Reiningecho90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
