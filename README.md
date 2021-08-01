@@ -6,7 +6,7 @@ Reach me at: trunkfish@gmail.com
 Just finished my PCEP and passed test!
 
 - Check out my GitHub Pages website for my AI: https://reiningecho90.github.io/S.A.N.E.-AI/
-- Newest Stable AI Release: https://github.com/Reiningecho90/S.A.N.E.-AI/releases/tag/v1.3.1
+- Newest Stable AI Release: https://github.com/Reiningecho90/S.A.N.E.-AI/releases/tag/v1.4.1
 - Currently learning Lua
 
 <!---
