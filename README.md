@@ -9,6 +9,8 @@ Just finished my PCEP and passed test!
 - Newest Stable AI Release: https://github.com/Reiningecho90/S.A.N.E.-AI/releases/tag/v1.4.1
 - Currently learning Lua
 
+Preparing to release S.A.N.E. Version 2.0, the final iteration my my AI project that has been in the works for a year as of its future release date.
+
 <!---
 Reiningecho90/Reiningecho90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
