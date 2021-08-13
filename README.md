@@ -11,6 +11,7 @@ Just finished my PCEP and passed test!
 
 Preparing to release S.A.N.E. Version 2.0, the final iteration my my AI project that has been in the works for a year as of its future release date.
 
+If you want to purchase the source code for S.A.N.E. you can visit this website (more information on the github page as well): https://www.piecex.com/source-code/S-A-N-E-Personal-Assistant-3396
 <!---
 Reiningecho90/Reiningecho90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
