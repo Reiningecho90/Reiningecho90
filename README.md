@@ -8,6 +8,7 @@ Just finished my PCEP and passed test!
 - Check out my GitHub Pages website for my AI: https://reiningecho90.github.io/S.A.N.E.-AI/
 - Newest Stable AI Release: https://github.com/Reiningecho90/S.A.N.E.-AI/releases/tag/v1.4.1
 - Currently learning Lua
+- I have school currently so activity is low for a while.
 
 Preparing to release S.A.N.E. Version 2.0, the final iteration my my AI project that has been in the works for a year as of its future release date.
 
