@@ -3,7 +3,7 @@ I’m interested in Python, Engineering, Neural networks
 I’m currently learning Python basics and studying/practicing for PCAP cert, after getting certified on level 3 or full level four moving to C/C++
 Reach me at: trunkfish@gmail.com
 
-I am currently looking around for Roblox game development opportunities, if you are familiar with the game and know someone please contact me using email.
+Help out the game I'm working on! Join the Stranded community today: https://discord.gg/5vHnw98X
 
 Just finished my PCEP and passed test!
 
