@@ -3,9 +3,7 @@ I’m interested in Python, Engineering, Neural networks
 I’m currently learning Python basics and studying/practicing for PCAP cert, after getting certified on level 3 or full level four moving to C/C++
 Reach me at: trunkfish@gmail.com
 
-Help out the game I'm working on! Join the Stranded community today: https://discord.gg/5vHnw98X
-
-Just finished my PCEP and passed test!
+Just finished my PCEP and passed the test!
 
 - Check out my GitHub Pages website for my AI: https://reiningecho90.github.io/S.A.N.E.-AI/
 - Newest Stable AI Release: https://github.com/Reiningecho90/S.A.N.E.-AI/releases/tag/v1.4.1
