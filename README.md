@@ -1,12 +1,11 @@
 Hi, I’m Reinier Johnson, I am 13 years old
 I’m interested in Python, Engineering, Neural networks
-I’m currently learning Python basics and studying/practicing for PCAP cert, after getting certified on level 3 or full level four moving to C/C++
+I’m currently learning Python intermediately, Lua and studying/practicing for my PCAP cert, after getting certified on PCAP1 or PCAP2 four moving to C/C++
 Reach me at: trunkfish@gmail.com
 
-This bio will be updated soon with new projects and information soon.
+Currently working with the development team over at EuroConnect Airlines on ROBLOX on thir upcoming game. Join the discord and group here: https://discord.gg/APTfWBnhKt and https://www.roblox.com/groups/11791209/EuroConnect-Airlines#!/about
 
-- Check out my GitHub Pages website for my AI: https://reiningecho90.github.io/S.A.N.E.-AI/
-- Newest Stable AI Release: https://github.com/Reiningecho90/S.A.N.E.-AI/releases/tag/v1.4.1
+- Check out my GitHub Pages website for my game: https://reiningecho90.github.io/The-Grand-Army-Project/
 - Currently learning Lua, Discord.py
 - I have school currently so activity is low for a while.
 
