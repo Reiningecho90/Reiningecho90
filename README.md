@@ -1,4 +1,4 @@
-Hi, I’m Reinier Johnson, I am 13 years old
+Hi, I’m Reinier Johnson, I am 14 years old
 I’m interested in Python, Engineering, Neural networks
 I’m currently learning Python intermediately, Lua and studying/practicing for my PCAP cert, after getting certified on PCAP1 or PCAP2 four moving to C/C++
 Reach me at: trunkfish@gmail.com
