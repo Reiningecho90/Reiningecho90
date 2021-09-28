@@ -3,7 +3,7 @@ I’m interested in Python, Engineering, Neural networks
 I’m currently learning Python intermediately, Lua and studying/practicing for my PCAP cert, after getting certified on PCAP1 or PCAP2 four moving to C/C++
 Reach me at: trunkfish@gmail.com
 
-Currently working with the development team over at EuroConnect Airlines on ROBLOX on thir upcoming game. Join the discord and group here: https://discord.gg/APTfWBnhKt and https://www.roblox.com/groups/11791209/EuroConnect-Airlines#!/about
+Currently working with the development team over at EuroConnect Airlines on ROBLOX on their upcoming game. Join the discord and group here: https://discord.gg/APTfWBnhKt and https://www.roblox.com/groups/11791209/EuroConnect-Airlines#!/about
 
 - Check out my GitHub Pages website for my game: https://reiningecho90.github.io/The-Grand-Army-Project/
 - Currently learning Lua, Discord.py
