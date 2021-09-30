@@ -9,7 +9,7 @@ Currently working with the development team over at EuroConnect Airlines on ROBL
 - Currently learning Lua, Discord.py
 - I have school currently so activity is low for a while.
 - Getting ready for a new project that will be documented here.
-- New project is going to go live soon. Once developemnt begins I will be opening the repo.
+- New project with public repo live today!
 
 I'll be opening and closing some repos as I move onto different projects in the coding space, some of these projects are already open like my game and some are coming soon.
 <!---
