@@ -5,7 +5,7 @@ Reach me at: trunkfish@gmail.com
 
 Currently working with the development team over at EuroConnect Airlines on ROBLOX on their upcoming game. Join the discord and group here: https://discord.gg/APTfWBnhKt and https://www.roblox.com/groups/11791209/EuroConnect-Airlines#!/about
 
-- Check out my GitHub Pages website for my game: https://reiningecho90.github.io/The-Grand-Army-Project/
+- Check out my GitHub Pages website for my free discord bot: https://reiningecho90.github.io/chances-discord-bot-public/
 - Currently learning Lua, Discord.py
 - I have school currently so activity is low for a while.
 
