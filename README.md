@@ -9,7 +9,7 @@ Currently working with the development team over at EuroConnect Airlines on ROBL
 - Currently learning Lua, Discord.py
 - I have school currently so activity is low for a while.
 
-I'll be opening and closing some repos as I move onto different projects in the coding space, some of these projects are already open like my game and some are coming soon.
+I'll be opening and closing some repos as I move onto different projects in the coding space, some of these projects are already open like my discord bot and a misc repo will be coming soon for a bunch of random projects.
 <!---
 Reiningecho90/Reiningecho90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
