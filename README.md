@@ -7,7 +7,7 @@ Currently working with the development team over at EuroConnect Airlines on ROBL
 
 - Check out my GitHub Pages website for my free discord bot: https://reiningecho90.github.io/chances-discord-bot-public/
 - Currently learning Lua, Discord.py
-- I have school currently so activity is low for a while.
+- I have school currently so I can't code that much, inthe meanwhile...check out my bot: https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot
 - I like coding small things and automating my life: https://github.com/Reiningecho90/personal-automation
 
 I'll be opening and closing some repos as I move onto different projects in the coding space, some of these projects are already open like my discord bot and a misc repo will be coming soon for a bunch of random projects.
