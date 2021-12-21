@@ -1,7 +1,7 @@
 Hi, I’m Reinier Johnson, I am 14 years old
 I’m interested in Python, Engineering, Neural networks
 I’m currently working with hardware and software in python. My current projects include a discord bot which is being intermittently updated and I am working on a raspberry pi security camera system.
-Reach me at: trunkfish@gmail.com or through my website: https://reinierj2007.wixsite.com/whoiam/welcome
+Reach me at: trunkfish@gmail.com or through my website: https://reinierj2007.wixsite.com/rj2007/welcome
 
 Currently working with the development team over at EuroConnect Airlines on ROBLOX on their upcoming game. Join the discord and group here: https://discord.gg/APTfWBnhKt and https://www.roblox.com/groups/11791209/EuroConnect-Airlines#!/about
 
