@@ -12,6 +12,7 @@ Currently working with the development team over at EuroConnect Airlines on ROBL
 - Currently learning Lua, Discord.py
 - I have school currently so I can't code that much, in the meanwhile...check out my bot: https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot
 - I like coding small things and automating my life: https://github.com/Reiningecho90/personal-automation
+- Currently expanding Rei Technologies! Visit us here: https://www.linkedin.com/company/rei-technologies-us
 
 I'll be opening and closing some repos as I move onto different projects in the coding space, some of these projects are already open like my discord bot and a misc repo will be coming soon for a bunch of random projects.
 <!---
