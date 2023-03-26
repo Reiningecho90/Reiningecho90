@@ -1,4 +1,4 @@
-Hi, I’m Reinier Johnson, I am 14 years old
+Hi, I’m Reinier Johnson, I am 15 years old
 
 I’m interested in Python, Engineering, Neural networks
 
@@ -6,11 +6,8 @@ I’m currently working with hardware and software in python. My current project
 
 Reach me at: trunkfish@gmail.com or through my website: https://reinierj2007.wixsite.com/rj2007/welcome
 
-Currently working with the development team over at EuroConnect Airlines on ROBLOX on their upcoming game. Join the discord and group here: https://discord.gg/APTfWBnhKt and https://www.roblox.com/groups/11791209/EuroConnect-Airlines#!/about
-
 - Check out my GitHub Pages website for my free discord bot: https://reiningecho90.github.io/chances-discord-bot-public/
-- Currently learning Lua, Discord.py
-- I have school currently so I can't code that much, in the meanwhile...check out my bot: https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot
+- Currently building a Python-based rocket simulation software
 - I like coding small things and automating my life: https://github.com/Reiningecho90/personal-automation
 - Currently expanding Rei Technologies! Visit us here: https://www.linkedin.com/company/rei-technologies-us
 
