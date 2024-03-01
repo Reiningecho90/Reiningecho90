@@ -1,4 +1,4 @@
-Hi, I’m Reinier Johnson, I am 15 years old
+Hi, I’m Rei Johnson, I am 16 years old
 
 I’m interested in Python, Engineering, Neural networks
 
